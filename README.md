@@ -6,7 +6,7 @@
 # HiveBox - DevOps End-to-End Hands-On Project
 
 <p align="center">
-  <a href="https://devopsroadmap.io/projects/hivebox" style="display: block; padding: .5em 0; text-align: center;">
+  <a href="https://devopsroadmap.io/projects/hiveboxa" style="display: block; padding: .5em 0; text-align: center;">
     <img alt="HiveBox - DevOps End-to-End Hands-On Project" border="0" width="90%" src="https://devopsroadmap.io/img/projects/hivebox-devops-end-to-end-project.png" />
   </a>
 </p>
